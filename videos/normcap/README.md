@@ -1,6 +1,1 @@
-
-
-
-<video width="720" height="480" controls>
-  <source src="normcap.mp4" type="video/mp4">
-</video>
+https://github.com/DistroTEAM/lecture/blob/master/videos/normcap/normcap.mp4?raw=true
