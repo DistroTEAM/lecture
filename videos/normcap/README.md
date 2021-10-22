@@ -8,6 +8,6 @@
   
   [لینک ویدیو](https://github.com/DistroTEAM/lecture/raw/master/videos/normcap/normcap.mp4)
   
-  [لینک گیت هاب برنامه](https://github.com/dynobo/normcap/releases/download/v0.2.7/NormCap-Linux.AppImage)
+  [لینک گیت هاب برنامه](https://github.com/dynobo/normcap)
   
 </div>
